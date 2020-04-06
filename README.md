@@ -7,8 +7,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
-  
-<img src=".github/banner.png" />
+
 
 ## :rocket: Technologies
 
